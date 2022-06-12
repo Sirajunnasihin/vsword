@@ -1,6 +1,6 @@
 # VS PHP Word HTML class
 
-Vs PHP Word HTML is a package created by Raskin Veniamin which allows you to dynamically create files DOCX simply by converting HTML to .DOCX. It won the PHP Innovation Award edition of January 2015[http://www.phpclasses.org/winners/year/2015/].
+Vs PHP Word HTML is a package created by Raskin Veniamin which allows you to dynamically create files DOCX simply by converting HTML to .DOCX. It won the [PHP Innovation Award edition of January 2015](http://www.phpclasses.org/winners/year/2015/).
 
 It is open source and easy to use. This article will focus on this library as it is the easiest to use.
  
