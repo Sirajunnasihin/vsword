@@ -8,6 +8,8 @@ With Vs PHP Word class it is very simple and straight forward to generate DOCX d
 
 You can also use another way by using nodes where you get more control in styling and manipulating your text. You also can create add page breaks or add templates and styles. You can even use WYSIWYG HTML editotr like TinyMCE and save the result as DOCX file.
 
+Based on the code, the author changes some code and publishes it into a library that can be easily integrated into the laravel framework through composer.
+
 # Example
 ```
 <?php
